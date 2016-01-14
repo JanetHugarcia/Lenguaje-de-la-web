@@ -1,0 +1,54 @@
+div{
+	width:600px;
+	padding:10px;
+	margin: auto;
+	background-color: #a5d95d;
+}
+
+h1{
+	color:red;
+	font-weight: 500;
+	font-family: Arial;
+	font-size: 20px;
+}
+
+img{
+	border:1px solid blue;
+}
+
+p{
+	color: yellow;
+	font-size: 18px;
+	background-color: red;
+	margin-right: 30px;
+}
+
+h2{
+	color:black;
+	font-size: 16px;
+}
+
+a:link{
+	text-decoration: none;
+	color:white;
+	font-size: 20px;
+}
+
+a:visited{
+	text-decoration: none;
+	color:black;
+	font-size: 20px;
+
+}
+
+a:active{
+	text-decoration: none;
+	color:green;
+
+}
+
+a:hover{
+	text-decoration: italic;
+	color:pink;
+	font-size: 20px;
+}
